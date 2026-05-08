@@ -1,0 +1,13 @@
+Sample Predictions
+========================
+
+Actual: email | Predicted: email
+Actual: chat | Predicted: email
+Actual: social | Predicted: email
+Actual: phone | Predicted: email
+Actual: chat | Predicted: email
+Actual: phone | Predicted: email
+Actual: email | Predicted: email
+Actual: phone | Predicted: email
+Actual: chat | Predicted: email
+Actual: app | Predicted: email
